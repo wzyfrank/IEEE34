@@ -5,5 +5,5 @@ Based on Branch-Flow Method, utilized symmetrical components and load updates fo
 Reuqires:
 
 MATLAB 
-CVX: a Matlab-based modeling system for convex optimization
-SeDuMi or MOSEK or SDPT3 as the solver
+; CVX: a Matlab-based modeling system for convex optimization
+; SeDuMi or MOSEK or SDPT3 as the solver
